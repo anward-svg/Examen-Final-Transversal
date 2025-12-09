@@ -13,7 +13,7 @@
 ### 1.1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/anthony-ward-linux-final.git
-cd anthony-ward-linux-final
+git clone https://github.com/anward-svg/Examen-Final-Transversal.git
+cd Examen-Final-Transversal/anthony-ward-linux-final
 
 
